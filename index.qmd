@@ -19,7 +19,7 @@ Through case studies and group work, you explore determinants, disparities, and 
 - How to compare health events across populations (by time, place, group, or event) using core epidemiologic measures.
 - Key population health concepts, and data access.
 - Students learn to describe, explain, predict, and control disparities—and apply these tools in a hands-on group exercise.
-- [GITHUB Link]
+- [GITHUB Link](https://poph-001.github.io/week2IntroToPopHealth/week2.html)
 
 ### September 4, 11, 16 (and maybe 18): Measuring Health and Disease in Population
 - Turning raw counts of disease, births, and deaths into standardized measures so we can compare across time, place, and groups. 
