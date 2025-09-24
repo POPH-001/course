@@ -39,6 +39,7 @@ editor: visual
 -   How good are diagnostic tests? Are they predicting well?
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthDisease2)
 
+
 ### September 30, October 2: Health Determinants
 
 -   Health is shaped by genetics, environment, lifestyle, and socioeconomic/cultural factors.
