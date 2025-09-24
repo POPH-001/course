@@ -30,6 +30,7 @@ editor: visual
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthDisease/)
 
 ### September 25, 30 Health Indicators and Indices and Advanced Epidemiological Measures
+
 -   Death certificates, health surveys, hospital records
 -   Are data sources reliable?
 -   Fusing data sources for better monitoring.
