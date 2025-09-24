@@ -10,90 +10,92 @@ editor: visual
 ## LECTURES
 
 ### August 26 & 28: Introduction to Population Health
-- Foundations of population health—what it is, how it’s measured, and what drives it.
-Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.  
-- [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
+-   Foundations of population health---what it is, how it's measured, and what drives it. Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.\
+-   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
-### August 28 & September 2: Key Population Health Concepts
-- How to compare health events across populations (by time, place, group, or event) using core epidemiologic measures.
-- Key population health concepts, and data access.
-- Students learn to describe, explain, predict, and control disparities—and apply these tools in a hands-on group exercise.
-- [GITHUB Link](https://poph-001.github.io/week2IntroToPopHealth/week2.html)
+### August 28, September 2 & 4: Key Population Health Concepts
 
-### September 4, 11, 16 (and maybe 18): Measuring Health and Disease in Population
-- Turning raw counts of disease, births, and deaths into standardized measures so we can compare across time, place, and groups. 
-- Calculating disease prevalence, incidence, crude rate, SMR, life tables, life expectancy, Preston curve
-- Population pyramids, demographic transitions
-- How population structure and aging drive health challenges and policies?
-- [GITHUB Link]
+-   How to compare health events across populations (by time, place, group, or event) using core epidemiologic measures.
+-   Key population health concepts, and data access.
+-   Students learn to describe, explain, predict, and control disparities---and apply these tools in a hands-on group exercise.
+-   [GITHUB Link](https://poph-001.github.io/week2IntroToPopHealth/week2.html)
 
-### September 23: Health Indicators and Indices
-- Death certificates, health surveys, hospital records
-- Are data sources reliable?
-- Fusing data sources for better monitoring.
-- [GITHUB Link]
+### September 11, 16, 18: Measuring Health and Disease in Population
 
-### September 25: Advanced Epidemiological Measures
-- DALYs, QALYS
-- Sensitivity, specificity
-- How good are diagnostic tests? Are they predicting well?
-- [GITHUB Link]
+-   Turning raw counts of disease, births, and deaths into standardized measures so we can compare across time, place, and groups.
+-   Calculating disease prevalence, incidence, crude rate, SMR, life tables, life expectancy, Preston curve
+-   Population pyramids, demographic transitions
+-   How population structure and aging drive health challenges and policies?
+-   [GITHUB Link](https://poph-001.github.io/measuringHealthDisease/)
 
-### September 30, October 2: Health Determinants 
-- Health is shaped by genetics, environment, lifestyle, and socioeconomic/cultural factors.
-- The biopsychosocial model and life course perspective show how these determinants interact over time.
-- Pathway analysis highlights complex interactions among determinants.
-- Nonlinear dynamics (feedback loops, thresholds) can lead to unexpected health outcomes.
-- [GITHUB Link]
+### September 25, 30 Health Indicators and Indices and Advanced Epidemiological Measures
+-   Death certificates, health surveys, hospital records
+-   Are data sources reliable?
+-   Fusing data sources for better monitoring.
+-   DALYs, QALYS
+-   Sensitivity, specificity
+-   How good are diagnostic tests? Are they predicting well?
+-   [GITHUB Link](https://poph-001.github.io/measuringHealthDisease2)
 
+### September 30, October 2: Health Determinants
 
-### October 7 & 9 Health Risk Assessment and Causation 
-- Core components of risk assessment: hazard identification, dose–response, exposure, and risk characterization.
-- Life course epidemiology links exposures across the lifespan to health risks.
-- Causation frameworks: Hume, Mill, Koch, Bradford Hill criteria.
-- Risk models use measures of association (e.g., odds ratios) to integrate causation.
-- [GITHUB Link]
+-   Health is shaped by genetics, environment, lifestyle, and socioeconomic/cultural factors.
+-   The biopsychosocial model and life course perspective show how these determinants interact over time.
+-   Pathway analysis highlights complex interactions among determinants.
+-   Nonlinear dynamics (feedback loops, thresholds) can lead to unexpected health outcomes.
+-   \[GITHUB Link\]
 
+### October 7 & 9 Health Risk Assessment and Causation
+
+-   Core components of risk assessment: hazard identification, dose--response, exposure, and risk characterization.
+-   Life course epidemiology links exposures across the lifespan to health risks.
+-   Causation frameworks: Hume, Mill, Koch, Bradford Hill criteria.
+-   Risk models use measures of association (e.g., odds ratios) to integrate causation.
+-   \[GITHUB Link\]
 
 ### October 16, 21: Designing Population Health Studies
-- Study designs (RCT, case-control, cross-sectional, lon gitudinal incl. cohort...)
-- Ethical concerns (vaccine).
-- Validity, reliability, errors, bias and confounding.
-- [GITHUB Link]
 
-### October 21, 23: Planning Population Interventions   
-- Types and levels of interven tions.
-- Criteria for screening.
-- Behavioral models for
-health promotion.
-- Cross-cultural issues & Case studies.
-- [GITHUB Link]
+-   Study designs (RCT, case-control, cross-sectional, lon gitudinal incl. cohort...)
+-   Ethical concerns (vaccine).
+-   Validity, reliability, errors, bias and confounding.
+-   \[GITHUB Link\]
 
-### November 6: Evaluating Health Programs   
-- Framework for evaluations and evaluation methods
-- Economic appraisal and case studies
-- [GITHUB Link]
+### October 21, 23: Planning Population Interventions
 
-### November 11 & 18: Infectious diseases   
-- Transmission routes, host, vector
-- Compartmental models: SIR
-- Visualizing outbreaks
-- Applied case studies
-- [GITHUB Link]
+-   Types and levels of interven tions.
+-   Criteria for screening.
+-   Behavioral models for health promotion.
+-   Cross-cultural issues & Case studies.
+-   \[GITHUB Link\]
 
-### November 18: Cartography and Population Health   
-- Visualizing Health Data on Maps
-- Challenges of Small Numbers and Rare Events
-- Spatial Patterns, Clusters, and Ecological Fallacy
-- [GITHUB Link]
+### November 6: Evaluating Health Programs
 
+-   Framework for evaluations and evaluation methods
+-   Economic appraisal and case studies
+-   \[GITHUB Link\]
 
-### November 20: AI in Population Health   
-- Predicting Health Risks
--  AI and Social Determinants of Health
-- Evaluating and Targeting Interventions
-- Ethical Challenges of AI in Pop. Health
-- [GITHUB Link]
+### November 11 & 18: Infectious diseases
 
-[delmelle@gmail.com](delmelle@gmail.com)
+-   Transmission routes, host, vector
+-   Compartmental models: SIR
+-   Visualizing outbreaks
+-   Applied case studies
+-   \[GITHUB Link\]
+
+### November 18: Cartography and Population Health
+
+-   Visualizing Health Data on Maps
+-   Challenges of Small Numbers and Rare Events
+-   Spatial Patterns, Clusters, and Ecological Fallacy
+-   \[GITHUB Link\]
+
+### November 20: AI in Population Health
+
+-   Predicting Health Risks
+-   AI and Social Determinants of Health
+-   Evaluating and Targeting Interventions
+-   Ethical Challenges of AI in Pop. Health
+-   \[GITHUB Link\]
+
+[delmelle\@gmail.com](delmelle@gmail.com)
