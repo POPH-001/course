@@ -39,14 +39,13 @@ editor: visual
 -   How good are diagnostic tests? Are they predicting well?
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthDisease2)
 
-
-### September 30, October 2: Health Determinants
+### September 30, October 2 & 7: Health Determinants
 
 -   Health is shaped by genetics, environment, lifestyle, and socioeconomic/cultural factors.
 -   The biopsychosocial model and life course perspective show how these determinants interact over time.
 -   Pathway analysis highlights complex interactions among determinants.
 -   Nonlinear dynamics (feedback loops, thresholds) can lead to unexpected health outcomes.
--   \[GITHUB Link\]
+-   [GITHUB Link](https://POPH-001.github.io/modelingDeterminantsOfHealth/)
 
 ### October 7 & 9 Health Risk Assessment and Causation
 
@@ -54,7 +53,7 @@ editor: visual
 -   Life course epidemiology links exposures across the lifespan to health risks.
 -   Causation frameworks: Hume, Mill, Koch, Bradford Hill criteria.
 -   Risk models use measures of association (e.g., odds ratios) to integrate causation.
--   \[GITHUB Link\]
+-   [GITHUB Link](https://poph-001.github.io/AssessingHealthRisks/)
 
 ### October 16, 21: Designing Population Health Studies
 
