@@ -60,15 +60,15 @@ editor: visual
 -   Study designs (RCT, case-control, cross-sectional, lon gitudinal incl. cohort...)
 -   Ethical concerns (vaccine).
 -   Validity, reliability, errors, bias and confounding.
--   \[GITHUB Link\]
+-   [GITHUB Link](https://POPH-001.github.io/DesigningPopulationHealthStudies/)
 
 ### October 21, 23: Planning Population Interventions
 
--   Types and levels of interven tions.
+-   Types and levels of interventions.
 -   Criteria for screening.
 -   Behavioral models for health promotion.
 -   Cross-cultural issues & Case studies.
--   \[GITHUB Link\]
+-   [GITHUB Link](https://poph-001.github.io/healthInterventions)
 
 ### November 6: Evaluating Health Programs
 
