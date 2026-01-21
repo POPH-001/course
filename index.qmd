@@ -1,6 +1,6 @@
 ---
 title: "Population Health"
-subtitle: "POPH 001 | Fall 2025 | College of Health, LEHIGH | Eric Delmelle"
+subtitle: "POPH 001 | Spring 2026 | College of Health, LEHIGH | Eric Delmelle"
 format: 
   html:
     toc: false
@@ -13,12 +13,11 @@ editor: visual
 
 -   Foundations of population health
 
--   what it is, how it's measured, and what drives it. 
+-   what it is, how it's measured, and what drives it.
 
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
 
 -   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
-
 
 ### Key Population Health Concepts
 
