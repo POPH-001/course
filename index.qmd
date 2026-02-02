@@ -4,123 +4,50 @@ subtitle: "POPH 001 | Spring 2026 | College of Health, LEHIGH | Eric Delmelle"
 format: 
   html:
     toc: false
+    css: styles.css
 editor: visual
 ---
 
+![](banner.png)
+
+**Meeting Format:** <span class="in-person">In Person</span> | <span class="online">Online</span>
+
 ## LECTURES
 
-### January 21: Introduction to Population Health
+### <span class="in-person">January 21</span>: Introduction to Population Health
 
 -   Foundations of population health
-
 -   what it is, how it's measured, and what drives it.
-
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
-
 -   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
-### Key Population Health Concepts
+### <span class="online">January 26</span>: Structural Foundations of Health
 
--   How to compare health events across populations (by time, place, group, or event) using core epidemiologic measures.
+-   Why do some populations experience better health than others?
+    -   social gradient
+    -   structural inequities
+    -   social context
+    -   economic context
+    -   environmental context
+    -   housing
+-   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth/)
 
--   Key population health concepts, and data access.
+### <span class="in-person">January 28</span>: Structural Foundations of Health (part 2)
 
--   Students learn to describe, explain, predict, and control disparities---and apply these tools in a hands-on group exercise.
+-   Why do some populations experience better health than others?
+    -   Policy & health
+    -   Labor conditions
+-   Community vs. population assessments
+-   Group exercise
+-   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth2/)
 
-### Measuring Health and Disease in Population
+### <span class="in-person">February 2</span>: Population Health Theories and Frameworks
 
--   Turning raw counts of disease, births, and deaths into standardized measures so we can compare across time, place, and groups.
+-   Socio-ecological model
+-   Life course perspective
+-   Biopsychosocial model
+-   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks/)
 
--   Calculating disease prevalence, incidence, crude rate, SMR, life tables, life expectancy, Preston curve
+---
 
--   Population pyramids, demographic transitions
-
--   How population structure and aging drive health challenges and policies?
-
-### Health Indicators and Indices and Advanced Epidemiological Measures
-
--   Death certificates, health surveys, hospital records
-
--   Are data sources reliable?
-
--   Fusing data sources for better monitoring.
-
--   DALYs, QALYS
-
--   Sensitivity, specificity
-
--   How good are diagnostic tests? Are they predicting well?
-
-### Health Determinants
-
--   Health is shaped by genetics, environment, lifestyle, and socioeconomic/cultural factors.
-
--   The biopsychosocial model and life course perspective show how these determinants interact over time.
-
--   Pathway analysis highlights complex interactions among determinants.
-
--   Nonlinear dynamics (feedback loops, thresholds) can lead to unexpected health outcomes.
-
-### Health Risk Assessment and Causation
-
--   Core components of risk assessment: hazard identification, dose--response, exposure, and risk characterization.
-
--   Life course epidemiology links exposures across the lifespan to health risks.
-
--   Causation frameworks: Hume, Mill, Koch, Bradford Hill criteria.
-
--   Risk models use measures of association (e.g., odds ratios) to integrate causation.
-
-### Designing Population Health Studies
-
--   Study designs (RCT, case-control, cross-sectional, lon gitudinal incl. cohort...)
-
--   Ethical concerns (vaccine).
-
--   Validity, reliability, errors, bias and confounding.
-
-### Planning Population Interventions
-
--   Types and levels of interventions.
-
--   Criteria for screening.
-
--   Behavioral models for health promotion.
-
--   Cross-cultural issues & Case studies.
-
-### Evaluating Health Programs
-
--   Framework for evaluations and evaluation methods
-
--   Economic appraisal and case studies
-
-### Infectious diseases
-
--   Transmission routes, host, vector
-
--   Compartmental models: SIR
-
--   Visualizing outbreaks
-
--   Applied case studies
-
-### Cartography and Population Health
-
--   Visualizing Health Data on Maps
-
--   Challenges of Small Numbers and Rare Events
-
--   Spatial Patterns, Clusters, and Ecological Fallacy
-
-### AI in Population Health
-
--   Predicting Health Risks
-
--   AI and Social Determinants of Health
-
--   Evaluating and Targeting Interventions
-
--   Ethical Challenges of AI in Pop. Health
-
-[delmelle\@gmail.com](delmelle@gmail.com)
+[delmelle@gmail.com](delmelle@gmail.com)
