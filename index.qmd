@@ -48,7 +48,7 @@ editor: visual
 -   Biopsychosocial model
 -   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks/)
 
-### [February 2]{.in-person}: Population Health Theories and Frameworks (con't)
+### [February 4]{.in-person}: Population Health Theories and Frameworks (con't)
 
 -   Pathways from determinants to health outcomes
 -   How do various determinants interact?
