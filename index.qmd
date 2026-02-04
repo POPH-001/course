@@ -10,18 +10,18 @@ editor: visual
 
 ![](banner.png)
 
-**Meeting Format:** <span class="in-person">In Person</span> | <span class="online">Online</span>
+**Meeting Format:** [In Person]{.in-person} \| [Online]{.online}
 
 ## LECTURES
 
-### <span class="in-person">January 21</span>: Introduction to Population Health
+### [January 21]{.in-person}: Introduction to Population Health
 
 -   Foundations of population health
 -   what it is, how it's measured, and what drives it.
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
 -   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
-### <span class="online">January 26</span>: Structural Foundations of Health
+### [January 26]{.online}: Structural Foundations of Health
 
 -   Why do some populations experience better health than others?
     -   social gradient
@@ -32,7 +32,7 @@ editor: visual
     -   housing
 -   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth/)
 
-### <span class="in-person">January 28</span>: Structural Foundations of Health (part 2)
+### [January 28]{.in-person}: Structural Foundations of Health (part 2)
 
 -   Why do some populations experience better health than others?
     -   Policy & health
@@ -41,13 +41,20 @@ editor: visual
 -   Group exercise
 -   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth2/)
 
-### <span class="in-person">February 2</span>: Population Health Theories and Frameworks
+### [February 2]{.in-person}: Population Health Theories and Frameworks
 
 -   Socio-ecological model
 -   Life course perspective
 -   Biopsychosocial model
 -   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks/)
 
----
+### [February 2]{.in-person}: Population Health Theories and Frameworks (con't)
 
-[delmelle@gmail.com](delmelle@gmail.com)
+-   Pathways from determinants to health outcomes
+-   How do various determinants interact?
+-   In-class exercise: identifying *moderators* and *mediators* on a causal pathway   
+-   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks2/)
+
+------------------------------------------------------------------------
+
+[delmelle\@gmail.com](delmelle@gmail.com)
