@@ -10,18 +10,18 @@ editor: visual
 
 ![](banner.png)
 
-**Meeting Format:** [In Person]{.in-person} \| [Online]{.online}
+**Meeting Format:** [In Person]{.in-person} \| [Online]{.online} \| [Offline]{.offline}
 
 ## LECTURES
 
-### [January 21]{.in-person}: Introduction to Population Health
+### [January 21]{.in-person} Introduction to Population Health
 
 -   Foundations of population health
 -   what it is, how it's measured, and what drives it.
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
 -   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
-### [January 26]{.online}: Structural Foundations of Health
+### [January 26]{.online} Structural Foundations of Health
 
 -   Why do some populations experience better health than others?
     -   social gradient
@@ -32,7 +32,7 @@ editor: visual
     -   housing
 -   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth/)
 
-### [January 28]{.in-person}: Structural Foundations of Health (part 2)
+### [January 28]{.in-person} Structural Foundations of Health (part 2)
 
 -   Why do some populations experience better health than others?
     -   Policy & health
@@ -41,20 +41,74 @@ editor: visual
 -   Group exercise
 -   [GITHUB Link](https://poph-001.github.io/StructuralFoundationsHealth2/)
 
-### [February 2]{.in-person}: Population Health Theories and Frameworks
+### [February 2]{.in-person} Population Health Theories and Frameworks
 
 -   Socio-ecological model
 -   Life course perspective
 -   Biopsychosocial model
 -   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks/)
 
-### [February 4]{.in-person}: Population Health Theories and Frameworks (con't)
+### [February 4]{.in-person} Population Health Theories and Frameworks (con't)
 
 -   Pathways from determinants to health outcomes
 -   How do various determinants interact?
--   In-class exercise: identifying *moderators* and *mediators* on a causal pathway   
+-   In-class exercise: identifying *moderators* and *mediators* on a causal pathway
 -   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks2/)
+
+
+### [February 9]{.in-person} Measuring Health and Disease in Populations
+
+-   Rates, ratios, proportions
+-   Incidence and prevalence
+    -   Population structure (age pyramids)
+    -   Demographic changes: fertility, mortality, migration
+    -   Preston curve: GDP vs. life expectancy
+    
+-   In-class exercise: age pyramids
+-   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
+
+
+### [February 11]{.in-person} Measuring Health and Disease in Populations (con't)
+
+-   Demographic and health transition
+-   Standardization in epidemiological research
+-   Crude death rate
+-   Standardized mortality rates
+-   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
+
+
+### [February 16]{.online} Research Skills Workshop
+
+-   How to access health data and library resources
+-   Explore datasets (CDC, WHO, County Health Rankings)
+-   APA citation and writing format
+-   Bibliography tools
+
+
+### [February 18]{.offline} Group work
+
+-   Meet in groups in person or online
+-   Decide on a topic worthy of investigation
+-   Assign responsibilities of each group member
+-   Identify sources of prevalence (e.g. by county, state)
+-   Identify potential determinants
+
+
+### [February 23]{.in-person} Measuring Health and Disease in Populations (con't)
+
+-   Constructing life tables and deriving life expectancy
+-   Potential years of life lost
+-   Combining mortality and morbidity into DALYs
+-   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
+
+
+
+
+
+
+
+
 
 ------------------------------------------------------------------------
 
-[delmelle\@gmail.com](delmelle@gmail.com)
+[delmelle\@gmail.com](delmelle@gmail.com) \| **last updated February 8 2026**
