@@ -17,7 +17,9 @@ editor: visual
 ### [January 21]{.in-person} Introduction to Population Health
 
 -   Foundations of population health
--   what it is, how it's measured, and what drives it.
+    -   What is it?
+    -   How it's measured, and
+    -   What drives it.
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
 -   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
 
@@ -55,7 +57,6 @@ editor: visual
 -   In-class exercise: identifying *moderators* and *mediators* on a causal pathway
 -   [GITHUB Link](https://poph-001.github.io/populationHealthTheoriesAndFrameworks2/)
 
-
 ### [February 9]{.in-person} Measuring Health and Disease in Populations
 
 -   Rates, ratios, proportions
@@ -63,10 +64,8 @@ editor: visual
     -   Population structure (age pyramids)
     -   Demographic changes: fertility, mortality, migration
     -   Preston curve: GDP vs. life expectancy
-    
 -   In-class exercise: age pyramids
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
-
 
 ### [February 11]{.in-person} Measuring Health and Disease in Populations (con't)
 
@@ -76,14 +75,14 @@ editor: visual
 -   Standardized mortality rates
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
 
-
 ### [February 16]{.online} Research Skills Workshop
 
--   How to access health data and library resources
+-   How to access health data
 -   Explore datasets (CDC, WHO, County Health Rankings)
+-   [GITHUB LINK](https://poph-001.github.io/data/)
 -   APA citation and writing format
 -   Bibliography tools
-
+-   [GITHUB LINK](https://poph-001.github.io/citation/)
 
 ### [February 18]{.offline} Group work
 
@@ -93,22 +92,32 @@ editor: visual
 -   Identify sources of prevalence (e.g. by county, state)
 -   Identify potential determinants
 
-
-### [February 23]{.in-person} Measuring Health and Disease in Populations (con't)
+### [February 23]{.online} Measuring Health and Disease in Populations (con't)
 
 -   Constructing life tables and deriving life expectancy
 -   Potential years of life lost
 -   Combining mortality and morbidity into DALYs
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
 
+### [February 25]{.in-person} Health indicators
 
+-   Disease classification
+-   Death certificates, health surveys, hospital records, disease registries
+-   Reliability and validity of different data sources
+-   Health indicators and indices
+-   [GITHUB Link](https://poph-001.github.io/health-indicators/)
 
+### [March 16, 18]{.in-person} Epidemiological measures
 
+-   Sensitivity, specificity, and predictive values of diagnostic tests
+-   [GITHUB Link](https://poph-001.github.io/epiMeasures/)
 
+### [March 30]{.in-person} Health Risk Assessment and Causation
 
-
-
+-   Causation
+-   Risk Assessment and Bradford Hill
+-   [GITHUB Link](https://poph-001.github.io/causation)
 
 ------------------------------------------------------------------------
 
-[delmelle\@gmail.com](delmelle@gmail.com) \| **last updated February 8 2026**
+\| **last updated March 30 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
