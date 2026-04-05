@@ -118,6 +118,16 @@ editor: visual
 -   Risk Assessment and Bradford Hill
 -   [GITHUB Link](https://poph-001.github.io/causation)
 
+### [April 6, 8]{.in-person} Designing Population Health Studies
+
+-   Study designs (RCT, case-control, cross-sectional, cohort)
+-   Ethical concerns (vaccines, randomization)
+-   Validity, reliability, errors, bias and confounding
+-   Confounding and bias in observational studies
+-   [GITHUB Link](https://poph-001.github.io/DesigningPopulationHealthStudies/)
+
+
+
 ------------------------------------------------------------------------
 
-\| **last updated March 30 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
+\| **last updated April 5 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
