@@ -126,8 +126,24 @@ editor: visual
 -   Confounding and bias in observational studies
 -   [GITHUB Link](https://poph-001.github.io/DesigningPopulationHealthStudies/)
 
+### [April 13, 15]{.in-person} Health Interventions
+
+-   Types and levels of interventions
+-   Health promotion vs. disease prevention
+-   PRECEDE - PROCEED framework
+-   Cultural and community considerations in interventions
+-   [GITHUB Link](https://poph-001.github.io/healthInterventions)
+
+### [April 20]{.in-person} Evaluating Public Health Interventions 
+
+-   Framework for evaluations
+-   Evaluation methods
+-   Economic appraisal
+-   Case studies
+-   [PDF Link](https://github.com/POPH-001/evaluatingHealthPrograms/blob/main/EvaluatingPopulationHealthProgramsSpring2026.pdf)
+
 
 
 ------------------------------------------------------------------------
 
-\| **last updated April 5 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
+\| **last updated April 13 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
