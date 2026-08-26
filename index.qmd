@@ -25,7 +25,7 @@ editor: visual
 -   Prevention, promotion, and protection; historical evolution of public health
 -   Demographics: births and deaths
 -   Through case studies and group work, you explore determinants, disparities, and interventions from policy to individual care.
--   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/)
+-   [GITHUB Link](https://poph-001.github.io/week1IntroPopHealth/week1.html)
 
 ### [September 1]{.in-person} Structural Foundations of Health
 
