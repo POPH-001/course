@@ -91,13 +91,11 @@ editor: visual
 ### [September 24]{.in-person} Measuring Health and Disease in Populations (con't)
 
 -   Direct and indirect standardization: worked examples
--   Introduction to life tables
 -   In-class exercise: standardizing mortality between two counties
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
 
 ### [September 29]{.in-person} Measuring Health and Disease in Populations (con't)
 
--   Constructing life tables and deriving life expectancy
 -   Potential years of life lost
 -   Combining mortality and morbidity into DALYs
 -   [GITHUB Link](https://poph-001.github.io/measuringHealthAndDisease26)
@@ -199,7 +197,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-\| **last updated August 25 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
+\| **last updated August 26 2026** \| [delmelle\@gmail.com](delmelle@gmail.com)
 
 <!-- Topic schedule only. Quizzes, assignment deadlines, points and group-project
      milestones live in the syllabus, so that this page stays reusable. -->
